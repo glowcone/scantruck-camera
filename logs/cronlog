@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/pi/Desktop/gphoto/listen.py", line 5, in <module>
+    import imageCapture
+  File "/home/pi/Desktop/gphoto/imageCapture.py", line 39
+    p.wait()
+           ^
+TabError: inconsistent use of tabs and spaces in indentation

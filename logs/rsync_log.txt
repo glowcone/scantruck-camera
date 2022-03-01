@@ -1,0 +1,454 @@
+2018/01/09 22:31:22 [1064] building file list
+2018/01/09 22:31:22 [1064] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/09 22:31:22 [1064] .d..tp..... ./
+2018/01/09 22:31:22 [1064] >f+++++++++ Aaron_Sat_New.A_Pose_1.2018-03-11.000120.157.jpg
+2018/01/09 22:31:24 [1064] >f+++++++++ Aaron_Sat_New.A_Pose_2.2018-03-11.000137.157.jpg
+2018/01/09 22:31:26 [1064] >f+++++++++ Aaron_Sat_New.A_Pose_3.2018-03-11.000153.157.jpg
+2018/01/09 22:31:27 [1064] sent 12,943,776 bytes  received 179 bytes  2,353,446.36 bytes/sec
+2018/01/09 22:31:27 [1064] total size is 12,940,327  speedup is 1.00
+2018/01/09 22:31:27 [1064] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/09 22:32:24 [1087] building file list
+2018/01/09 22:32:24 [1087] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/09 22:32:24 [1087] .d..tp..... ./
+2018/01/09 22:32:24 [1087] sent 176 bytes  received 118 bytes  588.00 bytes/sec
+2018/01/09 22:32:24 [1087] total size is 12,940,327  speedup is 44,014.72
+2018/01/09 22:32:24 [1087] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/09 22:32:27 [1097] building file list
+2018/01/09 22:32:27 [1097] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/09 22:32:27 [1097] .d..tp..... ./
+2018/01/09 22:32:27 [1097] sent 176 bytes  received 118 bytes  588.00 bytes/sec
+2018/01/09 22:32:27 [1097] total size is 12,940,327  speedup is 44,014.72
+2018/01/09 22:32:27 [1097] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/10 01:42:51 [1242] building file list
+2018/01/10 01:42:51 [1242] .d..t...... ./
+2018/01/10 01:42:51 [1242] sent 45 bytes  received 19 bytes  128.00 bytes/sec
+2018/01/10 01:42:51 [1242] total size is 0  speedup is 0.00
+2018/01/10 01:43:23 [1262] building file list
+2018/01/10 01:43:23 [1262] sent 38 bytes  received 12 bytes  100.00 bytes/sec
+2018/01/10 01:43:23 [1262] total size is 0  speedup is 0.00
+2018/01/10 01:46:00 [1295] building file list
+2018/01/10 01:46:00 [1295] sent 38 bytes  received 12 bytes  100.00 bytes/sec
+2018/01/10 01:46:00 [1295] total size is 0  speedup is 0.00
+2018/01/10 01:27:20 [1083] building file list
+2018/01/10 01:27:20 [1083] .d..t...... ./
+2018/01/10 01:27:20 [1083] >f+++++++++ Aaron_Sun.A_Pose_1.2018-03-11.200412.157.jpg
+2018/01/10 01:27:21 [1083] >f+++++++++ Aaron_Sun.A_Pose_2.2018-03-11.200432.157.jpg
+2018/01/10 01:27:21 [1083] >f+++++++++ Aaron_Sun.A_Pose_3.2018-03-11.200445.157.jpg
+2018/01/10 01:27:21 [1083] sent 18,672,168 bytes  received 76 bytes  12,448,162.67 bytes/sec
+2018/01/10 01:27:21 [1083] total size is 18,667,324  speedup is 1.00
+2018/01/10 01:29:33 [1114] building file list
+2018/01/10 01:29:33 [1114] sent 168 bytes  received 12 bytes  360.00 bytes/sec
+2018/01/10 01:29:33 [1114] total size is 18,667,324  speedup is 103,707.36
+2018/01/10 01:30:43 [1132] building file list
+2018/01/10 01:30:43 [1132] sent 168 bytes  received 12 bytes  360.00 bytes/sec
+2018/01/10 01:30:43 [1132] total size is 18,667,324  speedup is 103,707.36
+2018/01/10 02:03:24 [1404] building file list
+2018/01/10 02:03:24 [1404] .d..t...... ./
+2018/01/10 02:03:24 [1404] >f+++++++++ Aaron_Sun.A_Pose_33.2018-03-11.204053.157.jpg
+2018/01/10 02:03:24 [1404] sent 5,586,022 bytes  received 38 bytes  11,172,120.00 bytes/sec
+2018/01/10 02:03:24 [1404] total size is 5,584,520  speedup is 1.00
+2018/01/10 07:19:10 [1116] building file list
+2018/01/10 07:19:10 [1116] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/10 07:19:10 [1116] .d..tp..... ./
+2018/01/10 07:19:10 [1116] >f+++++++++ Aaron_Sun.A_Pose_1.2018-03-12.015558.157.jpg
+2018/01/10 07:19:11 [1116] >f+++++++++ Aaron_Sun.A_Pose_2.2018-03-12.015615.157.jpg
+2018/01/10 07:19:13 [1116] >f+++++++++ Aaron_Sun.A_Pose_3.2018-03-12.015629.157.jpg
+2018/01/10 07:19:13 [1116] sent 11,906,218 bytes  received 179 bytes  3,401,827.71 bytes/sec
+2018/01/10 07:19:13 [1116] total size is 11,903,022  speedup is 1.00
+2018/01/10 07:19:13 [1116] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/10 08:05:12 [1786] building file list
+2018/01/10 08:05:12 [1786] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/10 08:05:12 [1786] .d..tp..... ./
+2018/01/10 08:05:12 [1786] >f+++++++++ Aaron_Sun.A_Pose_44.2018-03-12.024142.157.jpg
+2018/01/10 08:05:13 [1786] sent 3,977,085 bytes  received 141 bytes  2,651,484.00 bytes/sec
+2018/01/10 08:05:13 [1786] total size is 3,975,979  speedup is 1.00
+2018/01/10 08:05:13 [1786] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/10 08:58:04 [1316] building file list
+2018/01/10 08:58:04 [1316] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/10 08:58:04 [1316] .d..tp..... ./
+2018/01/10 08:58:04 [1316] >f+++++++++ Aaron_Sun.A_Pose_100.2018-03-12.033004.157.jpg
+2018/01/10 08:58:05 [1316] sent 3,961,381 bytes  received 141 bytes  2,641,014.67 bytes/sec
+2018/01/10 08:58:05 [1316] total size is 3,960,279  speedup is 1.00
+2018/01/10 08:58:05 [1316] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/10 08:58:33 [1331] building file list
+2018/01/10 08:58:33 [1331] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/10 08:58:33 [1331] .d..tp..... ./
+2018/01/10 08:58:33 [1331] sent 99 bytes  received 118 bytes  434.00 bytes/sec
+2018/01/10 08:58:33 [1331] total size is 3,960,279  speedup is 18,250.13
+2018/01/10 08:58:33 [1331] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 11:18:22 [1570] building file list
+2018/01/13 11:18:22 [1570] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 11:18:22 [1570] .d..tp..... ./
+2018/01/13 11:18:23 [1570] >f+++++++++ Scan_Trizzle.A_Pose_2.2018-03-22.161639.157.jpg
+2018/01/13 11:18:25 [1570] >f+++++++++ Scan_Trizzle.Aeon.2018-03-22.161607.157.jpg
+2018/01/13 11:18:27 [1570] sent 23,657,300 bytes  received 160 bytes  4,301,356.36 bytes/sec
+2018/01/13 11:18:27 [1570] total size is 23,651,304  speedup is 1.00
+2018/01/13 11:18:27 [1570] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 13:08:43 [2643] building file list
+2018/01/13 13:08:43 [2643] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 13:08:43 [2643] .d..tp..... ./
+2018/01/13 13:08:43 [2643] >f+++++++++ LightTest.Light200.2018-03-22.181731.157.jpg
+2018/01/13 13:08:45 [2643] sent 11,397,312 bytes  received 141 bytes  4,558,981.20 bytes/sec
+2018/01/13 13:08:45 [2643] total size is 11,394,394  speedup is 1.00
+2018/01/13 13:08:45 [2643] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 14:26:18 [939] building file list
+2018/01/13 14:26:18 [939] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 14:26:18 [939] .d..tp..... ./
+2018/01/13 14:26:18 [939] >f+++++++++ ScanTest.A_Pose_1.2018-03-23.232502.157.jpg
+2018/01/13 14:26:20 [939] >f+++++++++ ScanTest.A_Pose_2.2018-03-23.232522.157.jpg
+2018/01/13 14:26:22 [939] sent 18,881,736 bytes  received 160 bytes  4,195,976.89 bytes/sec
+2018/01/13 14:26:22 [939] total size is 18,876,915  speedup is 1.00
+2018/01/13 14:26:22 [939] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 14:36:03 [1056] building file list
+2018/01/13 14:36:03 [1056] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 14:36:03 [1056] .d..tp..... ./
+2018/01/13 14:36:03 [1056] >f+++++++++ ScanTest.A_Pose_3.2018-03-23.233506.157.jpg
+2018/01/13 14:36:05 [1056] sent 9,461,629 bytes  received 141 bytes  3,784,708.00 bytes/sec
+2018/01/13 14:36:05 [1056] total size is 9,459,184  speedup is 1.00
+2018/01/13 14:36:05 [1056] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 14:36:28 [1071] building file list
+2018/01/13 14:36:28 [1071] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 14:36:28 [1071] .d..tp..... ./
+2018/01/13 14:36:28 [1071] sent 98 bytes  received 118 bytes  432.00 bytes/sec
+2018/01/13 14:36:28 [1071] total size is 9,459,184  speedup is 43,792.52
+2018/01/13 14:36:28 [1071] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 17:55:06 [1237] building file list
+2018/01/13 17:55:06 [1237] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 17:55:06 [1237] .d..tp..... ./
+2018/01/13 17:55:07 [1237] >f+++++++++ Test3_24.A_Pose_1.2018-03-24.200419.157.jpg
+2018/01/13 17:55:09 [1237] >f+++++++++ Test3_24.A_Pose_2.2018-03-24.200435.157.jpg
+2018/01/13 17:55:11 [1237] sent 18,998,853 bytes  received 160 bytes  3,454,366.00 bytes/sec
+2018/01/13 17:55:11 [1237] total size is 18,994,007  speedup is 1.00
+2018/01/13 17:55:11 [1237] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 18:10:04 [1418] building file list
+2018/01/13 18:10:04 [1418] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 18:10:04 [1418] .d..tp..... ./
+2018/01/13 18:10:04 [1418] >f+++++++++ Test3_24.A_Pose_3.2018-03-24.201838.157.jpg
+2018/01/13 18:10:06 [1418] >f+++++++++ Test3_24.A_Pose_4.2018-03-24.201901.157.jpg
+2018/01/13 18:10:10 [1418] >f+++++++++ Test3_24.A_Pose_5.2018-03-24.201930.157.jpg
+2018/01/13 18:10:12 [1418] sent 28,567,369 bytes  received 179 bytes  3,360,888.00 bytes/sec
+2018/01/13 18:10:12 [1418] total size is 28,560,107  speedup is 1.00
+2018/01/13 18:10:12 [1418] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 19:21:32 [983] building file list
+2018/01/13 19:21:32 [983] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 19:21:32 [983] .d..tp..... ./
+2018/01/13 19:21:32 [983] >f+++++++++ AonTest.A_Pose_1.2018-03-25.000938.157.jpg
+2018/01/13 19:21:33 [983] sent 9,421,188 bytes  received 141 bytes  6,280,886.00 bytes/sec
+2018/01/13 19:21:33 [983] total size is 9,418,752  speedup is 1.00
+2018/01/13 19:21:33 [983] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 19:26:22 [1134] building file list
+2018/01/13 19:26:22 [1134] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 19:26:22 [1134] .d..tp..... ./
+2018/01/13 19:26:22 [1134] >f+++++++++ AonTest.A_Pose_6.2018-03-25.001431.157.jpg
+2018/01/13 19:26:24 [1134] sent 9,439,985 bytes  received 141 bytes  3,776,050.40 bytes/sec
+2018/01/13 19:26:24 [1134] total size is 9,437,542  speedup is 1.00
+2018/01/13 19:26:24 [1134] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 19:30:30 [1198] building file list
+2018/01/13 19:30:30 [1198] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 19:30:30 [1198] .d..tp..... ./
+2018/01/13 19:30:31 [1198] >f+++++++++ AonTest.A_Pose_7.2018-03-25.001848.157.jpg
+2018/01/13 19:30:33 [1198] sent 9,418,939 bytes  received 141 bytes  2,691,165.71 bytes/sec
+2018/01/13 19:30:33 [1198] total size is 9,416,503  speedup is 1.00
+2018/01/13 19:30:33 [1198] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 20:35:33 [1261] building file list
+2018/01/13 20:35:34 [1261] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 20:35:34 [1261] .d..tp..... ./
+2018/01/13 20:35:34 [1261] >f+++++++++ AonTest.A_Pose_7.2018-03-25.001848.157.jpg
+2018/01/13 20:35:36 [1261] >f+++++++++ MixMasterMike.TEST_Scan01.2018-03-25.163043.157.jpg
+2018/01/13 20:35:39 [1261] sent 19,709,289 bytes  received 160 bytes  3,032,222.92 bytes/sec
+2018/01/13 20:35:39 [1261] total size is 19,704,249  speedup is 1.00
+2018/01/13 20:35:39 [1261] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 20:51:27 [1419] building file list
+2018/01/13 20:51:27 [1419] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 20:51:27 [1419] .d..tp..... ./
+2018/01/13 20:51:28 [1419] >f+++++++++ AonTest.A_Pose_7.2018-03-25.001848.157.jpg
+2018/01/13 20:51:29 [1419] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164150.157.jpg
+2018/01/13 20:51:31 [1419] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164214.157.jpg
+2018/01/13 20:51:32 [1419] >f+++++++++ MixMasterMike.TEST_Scan01.2018-03-25.163043.157.jpg
+2018/01/13 20:51:35 [1419] sent 37,993,845 bytes  received 198 bytes  4,469,887.41 bytes/sec
+2018/01/13 20:51:35 [1419] total size is 37,984,191  speedup is 1.00
+2018/01/13 20:51:35 [1419] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 21:37:08 [1881] building file list
+2018/01/13 21:37:08 [1881] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 21:37:08 [1881] .d..tp..... ./
+2018/01/13 21:37:08 [1881] >f+++++++++ AonTest.A_Pose_7.2018-03-25.001848.157.jpg
+2018/01/13 21:37:10 [1881] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172103.157.jpg
+2018/01/13 21:37:12 [1881] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172133.157.jpg
+2018/01/13 21:37:14 [1881] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172206.157.jpg
+2018/01/13 21:37:15 [1881] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172249.157.jpg
+2018/01/13 21:37:17 [1881] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164150.157.jpg
+2018/01/13 21:37:20 [1881] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164214.157.jpg
+2018/01/13 21:37:23 [1881] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.172910.157.jpg
+2018/01/13 21:37:25 [1881] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.172940.157.jpg
+2018/01/13 21:37:27 [1881] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173011.157.jpg
+2018/01/13 21:37:30 [1881] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173111.157.jpg
+2018/01/13 21:37:32 [1881] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173137.157.jpg
+2018/01/13 21:37:35 [1881] >f+++++++++ MixMasterMike.TEST_Scan01.2018-03-25.163043.157.jpg
+2018/01/13 21:37:37 [1881] sent 119,096,220 bytes  received 369 bytes  4,037,172.51 bytes/sec
+2018/01/13 21:37:37 [1881] total size is 119,065,972  speedup is 1.00
+2018/01/13 21:37:37 [1881] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/13 22:11:48 [1681] building file list
+2018/01/13 22:11:48 [1681] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/13 22:11:48 [1681] .d..tp..... ./
+2018/01/13 22:11:48 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.184718.157.jpg
+2018/01/13 22:11:50 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.184917.157.jpg
+2018/01/13 22:11:51 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.184938.157.jpg
+2018/01/13 22:11:53 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.184952.157.jpg
+2018/01/13 22:11:54 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185057.157.jpg
+2018/01/13 22:11:55 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185107.157.jpg
+2018/01/13 22:11:57 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185122.157.jpg
+2018/01/13 22:11:59 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185134.157.jpg
+2018/01/13 22:12:00 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185149.157.jpg
+2018/01/13 22:12:02 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185220.157.jpg
+2018/01/13 22:12:03 [1681] >f+++++++++ MixMasterMike.Demo.2018-03-25.185235.157.jpg
+2018/01/13 22:12:05 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184034.157.jpg
+2018/01/13 22:12:07 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184058.157.jpg
+2018/01/13 22:12:09 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184124.157.jpg
+2018/01/13 22:12:10 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184147.157.jpg
+2018/01/13 22:12:12 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184212.157.jpg
+2018/01/13 22:12:14 [1681] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184228.157.jpg
+2018/01/13 22:12:15 [1681] >f+++++++++ MixMasterMike.FACS_Cheeks.2018-03-25.181955.157.jpg
+2018/01/13 22:12:17 [1681] >f+++++++++ MixMasterMike.FACS_Cheeks.2018-03-25.182016.157.jpg
+2018/01/13 22:12:19 [1681] >f+++++++++ MixMasterMike.FACS_Compressed.2018-03-25.180806.157.jpg
+2018/01/13 22:12:21 [1681] >f+++++++++ MixMasterMike.FACS_Compressed.2018-03-25.180824.157.jpg
+2018/01/13 22:12:23 [1681] >f+++++++++ MixMasterMike.FACS_Disgust.2018-03-25.180843.157.jpg
+2018/01/13 22:12:25 [1681] >f+++++++++ MixMasterMike.FACS_Disgust.2018-03-25.180911.157.jpg
+2018/01/13 22:12:27 [1681] >f+++++++++ MixMasterMike.FACS_Einstein.2018-03-25.181859.157.jpg
+2018/01/13 22:12:29 [1681] >f+++++++++ MixMasterMike.FACS_Einstein.2018-03-25.181924.157.jpg
+2018/01/13 22:12:30 [1681] >f+++++++++ MixMasterMike.FACS_Eyes_Closed.2018-03-25.182414.157.jpg
+2018/01/13 22:12:32 [1681] >f+++++++++ MixMasterMike.FACS_Happy.2018-03-25.180937.157.jpg
+2018/01/13 22:12:35 [1681] >f+++++++++ MixMasterMike.FACS_Happy.2018-03-25.181020.157.jpg
+2018/01/13 22:13:10 [1681] >f+++++++++ MixMasterMike.FACS_Key_K.2018-03-25.183140.157.jpg
+2018/01/13 22:13:29 [1681] >f+++++++++ MixMasterMike.FACS_Look_Down.2018-03-25.182140.157.jpg
+2018/01/13 22:13:50 [1681] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182035.157.jpg
+2018/01/13 22:14:17 [1681] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182055.157.jpg
+2018/01/13 22:14:41 [1681] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182114.157.jpg
+2018/01/13 22:14:58 [1681] >f+++++++++ MixMasterMike.FACS_Me_M.2018-03-25.183052.157.jpg
+2018/01/13 22:15:17 [1681] >f+++++++++ MixMasterMike.FACS_Neutral_Face.2018-03-25.180511.157.jpg
+2018/01/13 22:15:45 [1681] >f+++++++++ MixMasterMike.FACS_Sad.2018-03-25.181041.157.jpg
+2018/01/13 22:16:17 [1681] >f+++++++++ MixMasterMike.FACS_Sad.2018-03-25.181122.157.jpg
+2018/01/13 22:16:47 [1681] >f+++++++++ MixMasterMike.FACS_Say_EAt_IY.2018-03-25.182616.157.jpg
+2018/01/13 22:17:08 [1681] >f+++++++++ MixMasterMike.FACS_Say_Fee_F.2018-03-25.182939.157.jpg
+2018/01/13 22:17:35 [1681] >f+++++++++ MixMasterMike.FACS_Say_Fee_F.2018-03-25.183005.157.jpg
+2018/01/13 22:18:03 [1681] >f+++++++++ MixMasterMike.FACS_Say_Odd_AA.2018-03-25.182640.157.jpg
+2018/01/13 22:18:27 [1681] >f+++++++++ MixMasterMike.FACS_Say_SHe_SH.2018-03-25.182910.157.jpg
+2018/01/13 22:18:45 [1681] >f+++++++++ MixMasterMike.FACS_Say_Sea_S.2018-03-25.182840.157.jpg
+2018/01/13 22:19:03 [1681] >f+++++++++ MixMasterMike.FACS_Say_THeta_TH.2018-03-25.183028.157.jpg
+2018/01/13 22:19:21 [1681] >f+++++++++ MixMasterMike.FACS_Say_hURt_ER.2018-03-25.182821.157.jpg
+2018/01/13 22:19:38 [1681] >f+++++++++ MixMasterMike.FACS_Say_hUt_AH.2018-03-25.182725.157.jpg
+2018/01/13 22:19:56 [1681] >f+++++++++ MixMasterMike.FACS_Scared.2018-03-25.181227.157.jpg
+2018/01/13 22:20:15 [1681] >f+++++++++ MixMasterMike.FACS_Scared.2018-03-25.181247.157.jpg
+2018/01/13 22:20:33 [1681] >f+++++++++ MixMasterMike.FACS_Scream.2018-03-25.181314.157.jpg
+2018/01/13 22:20:52 [1681] >f+++++++++ MixMasterMike.FACS_Scream.2018-03-25.181346.157.jpg
+2018/01/13 22:21:11 [1681] >f+++++++++ MixMasterMike.FACS_Scream.2018-03-25.181418.157.jpg
+2018/01/13 22:21:29 [1681] >f+++++++++ MixMasterMike.FACS_Smirk_Left.2018-03-25.181515.157.jpg
+2018/01/13 22:21:48 [1681] >f+++++++++ MixMasterMike.FACS_Smirk_Left.2018-03-25.181541.157.jpg
+2018/01/13 22:22:06 [1681] >f+++++++++ MixMasterMike.FACS_Smirk_Right.2018-03-25.181626.157.jpg
+2018/01/13 22:22:25 [1681] >f+++++++++ MixMasterMike.FACS_Smirk_Right.2018-03-25.181700.157.jpg
+2018/01/13 22:22:43 [1681] >f+++++++++ MixMasterMike.FACS_Smirk_Right.2018-03-25.181744.157.jpg
+2018/01/13 22:23:02 [1681] >f+++++++++ MixMasterMike.FACS_Surprise.2018-03-25.181806.157.jpg
+2018/01/13 22:23:21 [1681] >f+++++++++ MixMasterMike.FACS_Surprise.2018-03-25.181834.157.jpg
+2018/01/13 22:23:40 [1681] >f+++++++++ MixMasterMike.FACS_Teeth.2018-03-25.183226.157.jpg
+2018/01/13 22:23:58 [1681] >f+++++++++ MixMasterMike.FACS_Teeth.2018-03-25.183246.157.jpg
+2018/01/13 22:24:18 [1681] >f+++++++++ MixMasterMike.FACS_Uncompressed.2018-03-25.180612.157.jpg
+2018/01/13 22:24:37 [1681] >f+++++++++ MixMasterMike.FACS_Uncompressed.2018-03-25.180646.157.jpg
+2018/01/13 22:24:55 [1681] >f+++++++++ MixMasterMike.FACS_Uncompressed.2018-03-25.180734.157.jpg
+2018/01/13 22:25:14 [1681] >f+++++++++ MixMasterMike.FACS_We_W.2018-03-25.183116.157.jpg
+2018/01/13 22:25:32 [1681] >f+++++++++ MixMasterMike.Facs_Chew_Left.2018-03-25.183325.157.jpg
+2018/01/13 22:25:52 [1681] >f+++++++++ MixMasterMike.Facs_Chew_Right.2018-03-25.183350.157.jpg
+2018/01/13 22:26:11 [1681] >f+++++++++ MixMasterMike.Facs_Chew_Right.2018-03-25.183413.157.jpg
+2018/01/13 22:26:30 [1681] >f+++++++++ MixMasterMike.Hand_DJ.2018-03-25.183613.157.jpg
+2018/01/13 22:26:49 [1681] >f+++++++++ MixMasterMike.Hand_DJ.2018-03-25.183648.157.jpg
+2018/01/13 22:27:07 [1681] >f+++++++++ MixMasterMike.Hand_Fist.2018-03-25.183537.157.jpg
+2018/01/13 22:27:26 [1681] >f+++++++++ MixMasterMike.Performance_Face1.2018-03-25.183805.157.jpg
+2018/01/13 22:27:43 [1681] >f+++++++++ MixMasterMike.Performance_Face2.2018-03-25.183849.157.jpg
+2018/01/13 22:28:00 [1681] >f+++++++++ MixMasterMike.Performance_Face3.2018-03-25.183915.157.jpg
+2018/01/13 22:28:17 [1681] >f+++++++++ MixMasterMike.Performance_Face4.2018-03-25.183933.157.jpg
+2018/01/13 22:28:41 [1681] >f+++++++++ MixMasterMike.Performance_Face5.2018-03-25.183954.157.jpg
+2018/01/13 22:29:17 [1681] >f+++++++++ MixMasterMike.Raise_Your_Hands_UP.2018-03-25.183443.157.jpg
+2018/01/13 22:29:55 [1681] >f+++++++++ MixMasterMike.Raise_Your_Hands_UP.2018-03-25.183518.157.jpg
+2018/01/13 22:30:12 [1681] sent 710,043,092 bytes  received 1,585 bytes  642,865.26 bytes/sec
+2018/01/13 22:30:12 [1681] total size is 828,928,451  speedup is 1.17
+2018/01/13 22:30:12 [1681] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/14 00:24:03 [3053] building file list
+2018/01/14 00:24:03 [3053] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/14 00:24:03 [3053] .d..tp..... ./
+2018/01/14 00:24:04 [3053] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.203922.157.jpg
+2018/01/14 00:24:06 [3053] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.203937.157.jpg
+2018/01/14 00:24:08 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204122.157.jpg
+2018/01/14 00:24:10 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204218.157.jpg
+2018/01/14 00:24:11 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204258.157.jpg
+2018/01/14 00:24:13 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204354.157.jpg
+2018/01/14 00:24:15 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204446.157.jpg
+2018/01/14 00:24:17 [3053] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204621.157.jpg
+2018/01/14 00:24:19 [3053] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205304.157.jpg
+2018/01/14 00:24:21 [3053] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205424.157.jpg
+2018/01/14 00:24:24 [3053] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205554.157.jpg
+2018/01/14 00:24:27 [3053] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205907.157.jpg
+2018/01/14 00:24:28 [3053] >f+++++++++ MixMasterMike.FACS_Look_Down.2018-03-25.204919.157.jpg
+2018/01/14 00:24:30 [3053] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.204854.157.jpg
+2018/01/14 00:24:33 [3053] >f+++++++++ MixMasterMike.Jonathan_Base.2018-03-25.210307.157.jpg
+2018/01/14 00:24:35 [3053] >f+++++++++ MixMasterMike.Jonathan_Base.2018-03-25.210325.157.jpg
+2018/01/14 00:24:38 [3053] >f+++++++++ MixMasterMike.Jonathan_Base.2018-03-25.210721.157.jpg
+2018/01/14 00:24:40 [3053] >f+++++++++ MixMasterMike.Jonathan_Hat.2018-03-25.210656.157.jpg
+2018/01/14 00:24:43 [3053] >f+++++++++ MixMasterMike.Raise_Your_Hands_UP.2018-03-25.204554.157.jpg
+2018/01/14 00:24:45 [3053] >f+++++++++ MixMasterMike.Raise_Your_Hands_UP.2018-03-25.204831.157.jpg
+2018/01/14 00:24:46 [3053] sent 205,125,969 bytes  received 502 bytes  4,715,551.06 bytes/sec
+2018/01/14 00:24:46 [3053] total size is 1,033,998,234  speedup is 5.04
+2018/01/14 00:24:46 [3053] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/14 14:12:43 [1026] building file list
+2018/01/14 14:12:43 [1026] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/14 14:12:43 [1026] .d..tp..... ./
+2018/01/14 14:12:43 [1026] >f+++++++++ AaronTest.A_Pose_102.2018-04-01.191736.157.jpg
+2018/01/14 14:12:44 [1026] >f+++++++++ AaronTest.A_Pose_103.2018-04-01.191813.157.jpg
+2018/01/14 14:12:46 [1026] >f+++++++++ AaronTest.A_Pose_104.2018-04-01.193324.157.jpg
+2018/01/14 14:12:47 [1026] >f+++++++++ AaronTest.A_Pose_105.2018-04-01.205105.157.jpg
+2018/01/14 14:12:48 [1026] >f+++++++++ AaronTest.A_Pose_106.2018-04-01.205141.157.jpg
+2018/01/14 14:12:49 [1026] >f+++++++++ AaronTest.A_Pose_107.2018-04-01.205229.157.jpg
+2018/01/14 14:12:50 [1026] >f+++++++++ AaronTest.A_Pose_108.2018-04-01.205300.157.jpg
+2018/01/14 14:12:51 [1026] >f+++++++++ AaronTest.A_Pose_109.2018-04-01.205747.157.jpg
+2018/01/14 14:12:52 [1026] >f+++++++++ AaronTest.A_Pose_110.2018-04-01.205815.157.jpg
+2018/01/14 14:12:53 [1026] >f+++++++++ AaronTest.A_Pose_111.2018-04-01.205842.157.jpg
+2018/01/14 14:12:54 [1026] >f+++++++++ AaronTest.A_Pose_112.2018-04-01.205910.157.jpg
+2018/01/14 14:12:55 [1026] >f+++++++++ AaronTest.A_Pose_113.2018-04-01.205943.157.jpg
+2018/01/14 14:12:57 [1026] >f+++++++++ AaronTest.A_Pose_114.2018-04-01.210034.157.jpg
+2018/01/14 14:12:58 [1026] >f+++++++++ AaronTest.A_Pose_115.2018-04-01.210107.157.jpg
+2018/01/14 14:13:00 [1026] >f+++++++++ AaronTest.A_Pose_116.2018-04-01.210133.157.jpg
+2018/01/14 14:13:01 [1026] >f+++++++++ AaronTest.A_Pose_117.2018-04-01.210208.157.jpg
+2018/01/14 14:13:02 [1026] >f+++++++++ AaronTest.A_Pose_118.2018-04-01.210245.157.jpg
+2018/01/14 14:13:03 [1026] >f+++++++++ AaronTest.A_Pose_119.2018-04-01.210804.157.jpg
+2018/01/14 14:13:05 [1026] >f+++++++++ AaronTest.A_Pose_120.2018-04-01.210831.157.jpg
+2018/01/14 14:13:06 [1026] >f+++++++++ AaronTest.A_Pose_121.2018-04-01.210902.157.jpg
+2018/01/14 14:13:07 [1026] >f+++++++++ AaronTest.A_Pose_122.2018-04-01.210927.157.jpg
+2018/01/14 14:13:08 [1026] >f+++++++++ AaronTest.A_Pose_123.2018-04-01.210956.157.jpg
+2018/01/14 14:13:10 [1026] >f+++++++++ AaronTest.A_Pose_124.2018-04-01.211029.157.jpg
+2018/01/14 14:13:11 [1026] >f+++++++++ AaronTest.A_Pose_125.2018-04-01.211115.157.jpg
+2018/01/14 14:13:12 [1026] >f+++++++++ AaronTest.A_Pose_126.2018-04-01.211143.157.jpg
+2018/01/14 14:13:13 [1026] >f+++++++++ AaronTest.A_Pose_127.2018-04-01.211227.157.jpg
+2018/01/14 14:13:14 [1026] >f+++++++++ AaronTest.A_Pose_128.2018-04-01.211259.157.jpg
+2018/01/14 14:13:16 [1026] >f+++++++++ AaronTest.A_Pose_129.2018-04-01.211348.157.jpg
+2018/01/14 14:13:17 [1026] >f+++++++++ AaronTest.A_Pose_130.2018-04-01.211417.157.jpg
+2018/01/14 14:13:18 [1026] >f+++++++++ AaronTest.A_Pose_131.2018-04-01.211733.157.jpg
+2018/01/14 14:13:19 [1026] >f+++++++++ AaronTest.A_Pose_132.2018-04-01.211802.157.jpg
+2018/01/14 14:13:21 [1026] >f+++++++++ AaronTest.A_Pose_133.2018-04-01.211851.157.jpg
+2018/01/14 14:13:22 [1026] >f+++++++++ AaronTest.A_Pose_134.2018-04-01.211920.157.jpg
+2018/01/14 14:13:23 [1026] >f+++++++++ AaronTest.A_Pose_135.2018-04-01.211942.157.jpg
+2018/01/14 14:13:24 [1026] >f+++++++++ AaronTest.A_Pose_136.2018-04-01.212012.157.jpg
+2018/01/14 14:13:25 [1026] >f+++++++++ AaronTest.A_Pose_88.2018-04-01.174015.157.jpg
+2018/01/14 14:13:27 [1026] >f+++++++++ AaronTest.A_Pose_89.2018-04-01.174257.157.jpg
+2018/01/14 14:13:28 [1026] >f+++++++++ AaronTest.A_Pose_90.2018-04-01.181129.157.jpg
+2018/01/14 14:13:29 [1026] >f+++++++++ AaronTest.A_Pose_91.2018-04-01.182347.157.jpg
+2018/01/14 14:13:30 [1026] >f+++++++++ AaronTest.A_Pose_92.2018-04-01.184034.157.jpg
+2018/01/14 14:13:32 [1026] >f+++++++++ AaronTest.A_Pose_93.2018-04-01.184359.157.jpg
+2018/01/14 14:13:33 [1026] >f+++++++++ AaronTest.A_Pose_94.2018-04-01.184514.157.jpg
+2018/01/14 14:13:34 [1026] >f+++++++++ AaronTest.A_Pose_95.2018-04-01.185954.157.jpg
+2018/01/14 14:13:35 [1026] >f+++++++++ AaronTest.A_Pose_96.2018-04-01.190025.157.jpg
+2018/01/14 14:13:36 [1026] >f+++++++++ AaronTest.A_Pose_97.2018-04-01.190059.157.jpg
+2018/01/14 14:13:50 [1026] >f+++++++++ AaronTest.A_Pose_98.2018-04-01.190145.157.jpg
+2018/01/14 14:14:04 [1026] >f+++++++++ AonTest.A_Pose_7.2018-03-25.001848.157.jpg
+2018/01/14 14:14:28 [1026] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172103.157.jpg
+2018/01/14 14:14:47 [1026] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172133.157.jpg
+2018/01/14 14:15:07 [1026] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172206.157.jpg
+2018/01/14 14:15:25 [1026] >f+++++++++ MixMasterMike.APose_Base_.2018-03-25.172249.157.jpg
+2018/01/14 14:15:44 [1026] >f+++++++++ MixMasterMike.APose_Base_.2018-03-26.144613.157.jpg
+2018/01/14 14:15:54 [1026] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164150.157.jpg
+2018/01/14 14:16:13 [1026] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-25.164214.157.jpg
+2018/01/14 14:16:38 [1026] >f+++++++++ MixMasterMike.APose_Calibration.2018-03-26.144555.157.jpg
+2018/01/14 14:16:49 [1026] >f+++++++++ MixMasterMike.A_Pose_50.2018-03-25.213435.157.jpg
+2018/01/14 14:17:09 [1026] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.172910.157.jpg
+2018/01/14 14:17:30 [1026] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.172940.157.jpg
+2018/01/14 14:17:52 [1026] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.203922.157.jpg
+2018/01/14 14:18:10 [1026] >f+++++++++ MixMasterMike.A_Pose_Dressed.2018-03-25.203937.157.jpg
+2018/01/14 14:18:31 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173011.157.jpg
+2018/01/14 14:18:53 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173111.157.jpg
+2018/01/14 14:19:14 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.173137.157.jpg
+2018/01/14 14:19:34 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204122.157.jpg
+2018/01/14 14:19:55 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204218.157.jpg
+2018/01/14 14:20:17 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204258.157.jpg
+2018/01/14 14:20:39 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204354.157.jpg
+2018/01/14 14:21:01 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204446.157.jpg
+2018/01/14 14:21:23 [1026] >f+++++++++ MixMasterMike.A_Pose_Hat_Accessories.2018-03-25.204621.157.jpg
+2018/01/14 14:21:46 [1026] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205304.157.jpg
+2018/01/14 14:22:14 [1026] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205424.157.jpg
+2018/01/14 14:22:45 [1026] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205554.157.jpg
+2018/01/14 14:23:07 [1026] >f+++++++++ MixMasterMike.Decks_.2018-03-25.205907.157.jpg
+2018/01/14 14:23:30 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.184718.157.jpg
+2018/01/14 14:23:51 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.184917.157.jpg
+2018/01/14 14:24:13 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.184938.157.jpg
+2018/01/14 14:24:35 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.184952.157.jpg
+2018/01/14 14:24:56 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185057.157.jpg
+2018/01/14 14:25:18 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185107.157.jpg
+2018/01/14 14:25:41 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185122.157.jpg
+2018/01/14 14:26:06 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185134.157.jpg
+2018/01/14 14:26:28 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185149.157.jpg
+2018/01/14 14:26:52 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185220.157.jpg
+2018/01/14 14:27:14 [1026] >f+++++++++ MixMasterMike.Demo.2018-03-25.185235.157.jpg
+2018/01/14 14:27:35 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184034.157.jpg
+2018/01/14 14:27:57 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184058.157.jpg
+2018/01/14 14:28:19 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184124.157.jpg
+2018/01/14 14:28:42 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184147.157.jpg
+2018/01/14 14:29:04 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184212.157.jpg
+2018/01/14 14:29:26 [1026] >f+++++++++ MixMasterMike.Dynamic_Pose.2018-03-25.184228.157.jpg
+2018/01/14 14:29:47 [1026] >f+++++++++ MixMasterMike.FACS_Cheeks.2018-03-25.181955.157.jpg
+2018/01/14 14:30:09 [1026] >f+++++++++ MixMasterMike.FACS_Cheeks.2018-03-25.182016.157.jpg
+2018/01/14 14:30:31 [1026] >f+++++++++ MixMasterMike.FACS_Compressed.2018-03-25.180806.157.jpg
+2018/01/14 14:30:53 [1026] >f+++++++++ MixMasterMike.FACS_Compressed.2018-03-25.180824.157.jpg
+2018/01/14 14:31:15 [1026] >f+++++++++ MixMasterMike.FACS_Disgust.2018-03-25.180843.157.jpg
+2018/01/14 14:31:38 [1026] >f+++++++++ MixMasterMike.FACS_Disgust.2018-03-25.180911.157.jpg
+2018/01/14 14:32:00 [1026] >f+++++++++ MixMasterMike.FACS_Einstein.2018-03-25.181859.157.jpg
+2018/01/14 14:32:23 [1026] >f+++++++++ MixMasterMike.FACS_Einstein.2018-03-25.181924.157.jpg
+2018/01/14 14:32:46 [1026] >f+++++++++ MixMasterMike.FACS_Eyes_Closed.2018-03-25.182414.157.jpg
+2018/01/14 14:33:09 [1026] >f+++++++++ MixMasterMike.FACS_Happy.2018-03-25.180937.157.jpg
+2018/01/14 14:33:32 [1026] >f+++++++++ MixMasterMike.FACS_Happy.2018-03-25.181020.157.jpg
+2018/01/14 14:33:55 [1026] >f+++++++++ MixMasterMike.FACS_Key_K.2018-03-25.183140.157.jpg
+2018/01/14 14:34:17 [1026] >f+++++++++ MixMasterMike.FACS_Look_Down.2018-03-25.182140.157.jpg
+2018/01/14 14:34:40 [1026] >f+++++++++ MixMasterMike.FACS_Look_Down.2018-03-25.204919.157.jpg
+2018/01/14 14:35:03 [1026] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182035.157.jpg
+2018/01/14 14:35:26 [1026] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182055.157.jpg
+2018/01/14 14:35:49 [1026] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.182114.157.jpg
+2018/01/14 14:36:13 [1026] >f+++++++++ MixMasterMike.FACS_Look_UP.2018-03-25.204854.157.jpg
+2018/01/14 14:36:37 [1026] >f+++++++++ MixMasterMike.FACS_Me_M.2018-03-25.183052.157.jpg
+2018/01/14 14:36:53 [1026] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(638) [sender=3.1.2]
+2018/01/14 14:36:53 [1026] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at io.c(513) [generator=3.1.2]
+2018/01/14 15:38:30 [1714] building file list
+2018/01/14 15:38:30 [1714] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/14 15:38:30 [1714] .d..tp..... ./
+2018/01/14 15:38:31 [1714] >f+++++++++ PortalTest.APose_Base_.2018-04-28.133549.157.jpg
+2018/01/14 15:38:33 [1714] >f+++++++++ PortalTest.APose_Calibration.2018-04-28.133245.157.jpg
+2018/01/14 15:38:37 [1714] >f+++++++++ PortalTest.A_Pose_Hat_Accessories.2018-04-28.133847.157.jpg
+2018/01/14 15:38:39 [1714] >f+++++++++ PortalTest.Raise_Your_Hands_UP.2018-04-28.134324.157.jpg
+2018/01/14 15:38:40 [1714] sent 47,010,213 bytes  received 198 bytes  4,477,182.00 bytes/sec
+2018/01/14 15:38:40 [1714] total size is 46,998,320  speedup is 1.00
+2018/01/14 15:38:40 [1714] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/14 19:11:36 [1694] building file list
+2018/01/14 19:11:36 [1694] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/14 19:11:36 [1694] .d..tp..... ./
+2018/01/14 19:11:36 [1694] >f+++++++++ Aeon_Manacan_Test_1.APose_Calibration.2018-04-29.140022.157.jpg
+2018/01/14 19:11:39 [1694] sent 11,581,206 bytes  received 141 bytes  2,573,632.67 bytes/sec
+2018/01/14 19:11:39 [1694] total size is 11,578,222  speedup is 1.00
+2018/01/14 19:11:39 [1694] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2018/01/14 21:02:58 [2687] building file list
+2018/01/14 21:02:58 [2687] rsync: failed to set permissions on "/home/pi/Desktop/gphoto/imageshare/.": Permission denied (13)
+2018/01/14 21:02:58 [2687] .d..tp..... ./
+2018/01/14 21:02:58 [2687] >f+++++++++ Aeon_Manacan_Test_1.APose_Calibration.2018-04-29.140022.157.jpg
+2018/01/14 21:03:03 [2687] >f+++++++++ Niko_Rad_1.APose_Base_.2018-04-29.142110.157.jpg
+2018/01/14 21:03:07 [2687] >f+++++++++ Niko_Rad_1.A_Pose_Dressed.2018-04-29.142139.157.jpg
+2018/01/14 21:03:10 [2687] >f+++++++++ Niko_Rad_1.A_Pose_Dressed.2018-04-29.142242.157.jpg
+2018/01/14 21:03:12 [2687] >f+++++++++ Niko_Rad_1.barefoot.2018-04-29.142757.157.jpg
+2018/01/14 21:03:17 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143007.157.jpg
+2018/01/14 21:03:20 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143050.157.jpg
+2018/01/14 21:03:23 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143118.157.jpg
+2018/01/14 21:03:27 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143152.157.jpg
+2018/01/14 21:03:30 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143211.157.jpg
+2018/01/14 21:03:34 [2687] >f+++++++++ Niko_Rad_1.barefoot_use.2018-04-29.143301.157.jpg
+2018/01/14 21:03:36 [2687] >f+++++++++ Niko_Rad_1.dynamic_ling.2018-04-29.142405.157.jpg
+2018/01/14 21:03:38 [2687] >f+++++++++ Niko_Rad_1.dynamic_ling.2018-04-29.142433.157.jpg
+2018/01/14 21:03:43 [2687] >f+++++++++ Niko_Rad_1.dynamic_ling.2018-04-29.142502.157.jpg
+2018/01/14 21:03:45 [2687] >f+++++++++ Niko_Rad_1.dynamic_ling.2018-04-29.142623.157.jpg
+2018/01/14 21:03:47 [2687] >f+++++++++ Niko_Rad_1.wedding_dress.2018-04-29.144253.157.jpg
+2018/01/14 21:03:49 [2687] >f+++++++++ Niko_Rad_1.wedding_dress.2018-04-29.144311.157.jpg
+2018/01/14 21:03:50 [2687] >f+++++++++ Niko_Rad_1.wedding_dress.2018-04-29.144331.157.jpg
+2018/01/14 21:03:53 [2687] >f+++++++++ Niko_Rad_1.wedding_dress.2018-04-29.144422.157.jpg
+2018/01/14 21:03:54 [2687] sent 236,868,148 bytes  received 483 bytes  4,192,365.15 bytes/sec
+2018/01/14 21:03:54 [2687] total size is 236,808,708  speedup is 1.00
+2018/01/14 21:03:54 [2687] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
