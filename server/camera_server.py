@@ -33,7 +33,7 @@ def count_camera_images():
 	return out
 
 def count_local_images():
-	files = next(os.walk(dir))[2]
+	files = next(os.walk(IMAGES_DIR))[2]
 	return len(files)
 
 def delete_local_all():
