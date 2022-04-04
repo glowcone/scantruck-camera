@@ -5,44 +5,49 @@ from datetime import datetime
 import subprocess
 import os
 
-IMAGES_DIR = '/home/pi/Desktop/gphoto/images/'
+IMAGES_DIR = '/home/pi/server/images/'
 PORT = 3000
 BUFFER_SIZE = 2048
 
 udp_listen_sock = socket(AF_INET,SOCK_DGRAM, IPPROTO_UDP)
 
 def capture():
-	p = subprocess.Popen(['gphoto2', '--capture-image'], stdout=subprocess.PIPE)
-	p.wait()
-	out, err = p.communicate()
+        now = datetime.now()
+        p = subprocess.Popen(['gphoto2', '--capture-image-and-download', '--filename', IMAGES_DIR+now.strftime("%d-%m-%Y_%H-%M-%S")+ '.jpg'], stdout=subprocess.PIPE)
+        p.wait()
+        out, err = p.communicate()
 
 def delete_camera_all():
-	p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-D'], stdout=subprocess.PIPE)
-	p.wait()
-	out, err = p.communicate()
+        p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-D'], stdout=subprocess.PIPE)
+        p.wait()
+        out, err = p.communicate()
 
 def copy_camera_all():
-	p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-P'], stdout=subprocess.PIPE, cwd=IMAGES_DIR)
-	p.wait()
-	out, err = p.communicate()
+        p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-P'], stdout=subprocess.PIPE, cwd=IMAGES_DIR)
+        p.wait()
+        out, err = p.communicate()
 
 def count_camera_images():
-	p = subprocess.Popen(['sudo', 'gphoto2', '--num-files'], stdout=subprocess.PIPE)
-	p.wait()
-	out, err = p.communicate()
-	return out
+        p = subprocess.Popen(['sudo', 'gphoto2', '--num-files'], stdout=subprocess.PIPE)
+        p.wait()
+        out, err = p.communicate()
+        return out
 
 def count_local_images():
-	files = next(os.walk(IMAGES_DIR))[2]
-	return len(files)
+        files = next(os.walk(IMAGES_DIR))[2]
+        return len(files)
 
 def delete_local_all():
-	p = subprocess.Popen(['rm', '-rf', '*'], stdout=subprocess.PIPE, cwd=IMAGES_DIR)
-	p.wait()
-	out, err = p.communicate()
+        for filename in os.listdir(IMAGES_DIR):
+                file_path = os.path.join(IMAGES_DIR, filename)
+                try:
+                        if os.path.isfile(file_path) or os.path.islink(file_path):
+                                os.unlink(file_path)
+                except:
+                        pass
 
 def send_message(address, message):
-	sock.sendto(message.encode('utf-8'), addr)
+        udp_listen_sock.sendto(str(message).encode('utf-8'), address)
 
 def main():
 	udp_listen_sock.bind(("", PORT))
