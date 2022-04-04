@@ -16,16 +16,19 @@ def capture():
         p = subprocess.Popen(['gphoto2', '--capture-image-and-download', '--filename', IMAGES_DIR+now.strftime("%d-%m-%Y_%H-%M-%S")+ '.jpg'], stdout=subprocess.PIPE)
         p.wait()
         out, err = p.communicate()
+        return out
 
 def delete_camera_all():
         p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-D'], stdout=subprocess.PIPE)
         p.wait()
         out, err = p.communicate()
+        return out
 
 def copy_camera_all():
         p = subprocess.Popen(['sudo', 'gphoto2', '-R', '-P'], stdout=subprocess.PIPE, cwd=IMAGES_DIR)
         p.wait()
         out, err = p.communicate()
+        return out
 
 def count_camera_images():
         p = subprocess.Popen(['sudo', 'gphoto2', '--num-files'], stdout=subprocess.PIPE)
@@ -47,24 +50,24 @@ def delete_local_all():
                         pass
 
 def send_message(address, message):
-        udp_listen_sock.sendto(str(message).encode('utf-8'), address)
+        udp_listen_sock.sendto(str(message).encode(), address)
 
 def main():
 	udp_listen_sock.bind(("", PORT))
 	while True:
 		data,addr = udp_listen_sock.recvfrom(BUFFER_SIZE)
 		print('received: ', data, addr)
-		data = data.decode('UTF-8')
+		data = data.decode()
 		splits = data.split(' ')
 		if splits[0] == 'capture':
-			capture()
-			send_message(addr, 'success')
+			send_message(addr, capture())
 		elif splits[0] == 'delete_camera_all':
-			delete_camera_all()
+			send_message(addr, delete_camera_all())
 		elif splits[0] == 'copy_camera_all':
-			copy_camera_all()
+			send_message(addr, copy_camera_all())
 		elif splits[0] == 'delete_all':
 			delete_local_all()
+                        send_message('Deleted')
 		elif splits[0] == 'count_camera_images':
 			send_message(addr, count_camera_images())
 		elif splits[0] == 'count_local_images':
